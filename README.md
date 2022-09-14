@@ -1,6 +1,6 @@
 # Title
 
-MyDecorTrade APP
+Nuxt 3 Boilerplate
 
 ## Setup
 
