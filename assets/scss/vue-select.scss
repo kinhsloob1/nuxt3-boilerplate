@@ -1,0 +1,24 @@
+@use '@/assets/scss/_breakpoints.scss' as breakpoint;
+@use '@/assets/scss/_colors.scss' as color;
+
+* {
+--vs-controls-color: #{color.$black-1};
+--vs-border-color: #{color.$ash-3};
+
+--vs-dropdown-bg: #{color.$white-1};
+--vs-dropdown-color: #{color.$black-1};
+--vs-dropdown-option-color: #{color.$black-1};
+
+--vs-selected-bg: #{color.$main};
+--vs-selected-color: #{color.$black-1};
+
+--vs-search-input-color: #{color.$black-1};
+
+--vs-dropdown-option--active-bg: #{color.$main};
+--vs-dropdown-option--active-color: #{color.$white-1};
+
+--vs-dropdown-box-shadow: 4px 4px 12px 2px #{color.$ash-3};
+--vs-transition-duration: 300ms;
+
+--vs-border-radius: 10px;
+}

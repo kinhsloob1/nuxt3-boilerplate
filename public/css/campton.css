@@ -1,0 +1,140 @@
+@font-face {
+  font-family: "CamptonBlack";
+  font-weight: 400;
+  font-style: normal;
+  font-display: auto;
+  src: local("CamptonBlack"), url("/fonts/campton/Black.otf");
+}
+@font-face {
+  font-family: "CamptonBlackItalic";
+  font-weight: 400;
+  font-style: normal;
+  font-display: auto;
+  src: local("CamptonBlackItalic"), url("/fonts/campton/BlackItalic.otf");
+}
+@font-face {
+  font-family: "CamptonBold";
+  font-weight: 400;
+  font-style: normal;
+  font-display: auto;
+  src: local("CamptonBold"), url("/fonts/campton/Bold.otf");
+}
+@font-face {
+  font-family: "CamptonBoldItalic";
+  font-weight: 400;
+  font-style: normal;
+  font-display: auto;
+  src: local("CamptonBoldItalic"), url("/fonts/campton/BoldItalic.otf");
+}
+@font-face {
+  font-family: "CamptonBook";
+  font-weight: 400;
+  font-style: normal;
+  font-display: auto;
+  src: local("CamptonBook"), url("/fonts/campton/Book.otf");
+}
+@font-face {
+  font-family: "CamptonBookItalic";
+  font-weight: 400;
+  font-style: normal;
+  font-display: auto;
+  src: local("CamptonBookItalic"), url("/fonts/campton/BookItalic.otf");
+}
+@font-face {
+  font-family: "CamptonExtraBold";
+  font-weight: 400;
+  font-style: normal;
+  font-display: auto;
+  src: local("CamptonExtraBold"), url("/fonts/campton/ExtraBold.otf");
+}
+@font-face {
+  font-family: "CamptonExtraBoldItalic";
+  font-weight: 400;
+  font-style: normal;
+  font-display: auto;
+  src: local("CamptonExtraBoldItalic"), url("/fonts/campton/ExtraBoldItalic.otf");
+}
+@font-face {
+  font-family: "CamptonExtraLight";
+  font-weight: 400;
+  font-style: normal;
+  font-display: auto;
+  src: local("CamptonExtraLight"), url("/fonts/campton/ExtraLight.otf");
+}
+@font-face {
+  font-family: "CamptonExtraLightItalic";
+  font-weight: 400;
+  font-style: normal;
+  font-display: auto;
+  src: local("CamptonExtraLightItalic"), url("/fonts/campton/ExtraLightItalic.otf");
+}
+@font-face {
+  font-family: "CamptonLight";
+  font-weight: 400;
+  font-style: normal;
+  font-display: auto;
+  src: local("CamptonLight"), url("/fonts/campton/Light.otf");
+}
+@font-face {
+  font-family: "CamptonLightItalic";
+  font-weight: 400;
+  font-style: normal;
+  font-display: auto;
+  src: local("CamptonLightItalic"), url("/fonts/campton/LightItalic.otf");
+}
+@font-face {
+  font-family: "CamptonMedium";
+  font-weight: 400;
+  font-style: normal;
+  font-display: auto;
+  src: local("CamptonMedium"), url("/fonts/campton/Medium.otf");
+}
+@font-face {
+  font-family: "CamptonMediumItalic";
+  font-weight: 400;
+  font-style: normal;
+  font-display: auto;
+  src: local("CamptonMediumItalic"), url("/fonts/campton/MediumItalic.otf");
+}
+@font-face {
+  font-family: "Campton";
+  font-weight: 400;
+  font-style: normal;
+  font-display: auto;
+  src: local("Campton"), url("/fonts/campton/Medium.otf");
+}
+@font-face {
+  font-family: "Campton#Italic";
+  font-weight: 400;
+  font-style: normal;
+  font-display: auto;
+  src: local("CamptonItalic"), url("/fonts/campton/MediumItalic.otf");
+}
+@font-face {
+  font-family: "CamptonSemiBold";
+  font-weight: 400;
+  font-style: normal;
+  font-display: auto;
+  src: local("CamptonSemiBold"), url("/fonts/campton/SemiBold.otf");
+}
+@font-face {
+  font-family: "CamptonSemiBoldItalic";
+  font-weight: 400;
+  font-style: normal;
+  font-display: auto;
+  src: local("CamptonSemiBoldItalic"), url("/fonts/campton/SemiBoldItalic.otf");
+}
+@font-face {
+  font-family: "CamptonThin";
+  font-weight: 400;
+  font-style: normal;
+  font-display: auto;
+  src: local("CamptonThin"), url("/fonts/campton/Thin.otf");
+}
+@font-face {
+  font-family: "CamptonThinItalic";
+  font-weight: 400;
+  font-style: normal;
+  font-display: auto;
+  src: local("CamptonThinItalic"), url("/fonts/campton/ThinItalic.otf");
+}

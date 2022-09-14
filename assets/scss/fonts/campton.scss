@@ -1,0 +1,37 @@
+$families: "Black", "Bold", "Book", "ExtraBold", "ExtraLight", "Light", "Medium", "SemiBold", "Thin";
+
+@each $family in $families {
+  @font-face {
+    font-family: "Campton#{$family}";
+    font-weight: 400;
+    font-style: normal;
+    font-display: auto;
+    src: local("Campton#{$family}"), url("/fonts/campton/#{$family}.otf");
+  }
+
+  @font-face {
+    font-family: "Campton#{$family}Italic";
+    font-weight: 400;
+    font-style: normal;
+    font-display: auto;
+    src: local("Campton#{$family}Italic"), url("/fonts/campton/#{$family}Italic.otf");
+  }
+
+  @if $family == "Medium" {
+    @font-face {
+      font-family: "Campton";
+      font-weight: 400;
+      font-style: normal;
+      font-display: auto;
+      src: local("Campton"), url("/fonts/campton/#{$family}.otf");
+    }
+
+    @font-face {
+      font-family: "Campton#Italic";
+      font-weight: 400;
+      font-style: normal;
+      font-display: auto;
+      src: local("CamptonItalic"), url("/fonts/campton/#{$family}Italic.otf");
+    }
+  }
+}

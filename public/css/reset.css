@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+}
+
+img{
+    pointer-events: none;
+    user-select: none;
+}
+
+button{
+    outline: initial;
+    cursor: pointer;
+    color: black;
+    background-color: initial;
+    border: none;
+    margin: 0;
+    padding: 0;
+}

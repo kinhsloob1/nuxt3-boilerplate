@@ -1,0 +1,25 @@
+.scale-enter-from,
+.scale-leave-to {
+    transform: scale(1.4);
+}
+
+.slide-left-enter-from,
+.slide-left-leave-to {
+    transform: translateX(3000px);
+}
+
+.nuxt-page-fade-enter-from,
+.nuxt-page-fade-leave-to,
+.nuxt-layout-fade-enter-from,
+.nuxt-layout-fade-leave-to {
+    opacity: 0;
+    transition: all 0.3s ease-in-out;
+}
+
+.nuxt-page-fade-enter-to,
+.nuxt-page-fade-leave-from,
+.nuxt-layout-fade-enter-to,
+.nuxt-layout-fade-leave-from {
+    opacity: 1;
+    transition: all 0.3s ease-in-out;
+}
